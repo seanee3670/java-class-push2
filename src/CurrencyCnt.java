@@ -2,7 +2,9 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+
 public class CurrencyCnt {
+
     public static void main(String[] args) throws IOException {
         /*
          * 다음과 같이 화폐 매수를 구하는 프로그램을 구현하시오.
